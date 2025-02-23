@@ -1,4 +1,7 @@
-Hi there fellow developers this repo consist of my Stegnography Project resource files with sample images 
+Hi there fellow developers this repo consist of my Stegnography Project resource files with sample images
+
+
+
 Secure Data Hiding in Images using Steganography (Python)
 This project demonstrates a simple implementation of image steganography using Python and OpenCV. The application allows users to hide (encrypt) a secret message inside an image and later retrieve (decrypt) the message using a simple UI built with Tkinter.
 
@@ -9,8 +12,6 @@ Embed a secret text message into a cover image. The program writes each characte
 Decryption:
 Retrieve the hidden message from the modified image by providing the correct passcode and the message length.
 
-Graphical User Interface (GUI):
-A simple Tkinter-based UI to facilitate the process of:
 
 Uploading a cover image.
 Entering the secret message and passcode.
